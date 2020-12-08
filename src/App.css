@@ -1,0 +1,117 @@
+.App {
+  text-align: center;
+}
+
+.pokebola_red {
+  display: inline-block;
+  width: 10rem;
+  height: 10rem;
+  background-color: #fff;
+  border-radius: 50%;
+  border: 2px solid #000;
+  box-shadow: 10px 5px 0 5px gray inset;
+  margin: 15px;
+}
+
+.color_red {
+  width: 10rem;
+  height: 5rem;
+  background: red;
+  border-radius: 5rem 5rem 0 0;
+  position: absolute;
+}
+
+.line {
+  width: 10rem;
+  height: 1rem;
+  background: #333;
+  position: absolute;
+  margin-top: 4.6rem;
+}
+
+.dark_circle {
+  width: 3.8rem;
+  height: 3.8rem;
+  background-color: #333;
+  border-radius: 50%;
+  position: absolute;
+  z-index: 5;
+  margin-top: 3rem;
+  margin-left: 3rem;
+}
+
+.light_circle {
+  width: 2.6rem;
+  height: 2.6rem;
+  background-color: #fff;
+  border-radius: 50%;
+  position: absolute;
+  margin-top: 3.6rem;
+  margin-left: 3.6rem;
+  z-index: 10;
+}
+
+.little_circle {
+  width: 1.8rem;
+  height: 1.8rem;
+  background-color: #fff;
+  border-radius: 50%;
+  border: 2px solid #333;
+  position: absolute;
+  margin-top: 3.9rem;
+  margin-left: 3.9rem;
+  z-index: 15;
+}
+
+.ultraball {
+  display: inline-block;
+  width: 10rem;
+  height: 10rem;
+  background-color: #fff;
+  border-radius: 50%;
+  border: 2px solid #000;
+  box-shadow: 10px 5px 0 5px gray inset;
+  margin: 15px;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.color_black {
+  width: 10rem;
+  height: 5rem;
+  background: black;
+  border-radius: 5rem 5rem 0 0;
+  position: absolute;
+  overflow: hidden;
+}
+
+.shape_left {
+  width: 17px;
+  height: 70px;
+  background: yellow;
+  position: absolute;
+  margin-left: 18px;
+  top: 15px;
+  left: 0;
+}
+
+.shape_right {
+  width: 17px;
+  height: 70px;
+  background: yellow;
+  position: absolute;
+  margin-right: 18px;
+  top: 15px;
+  right: 0;
+}
+
+.shape_top {
+  width: 25px;
+  height: 100px;
+  background: yellow;
+  position: absolute;
+  top: -40px;
+  left: 70px;
+  transform: rotate(90deg);
+}
