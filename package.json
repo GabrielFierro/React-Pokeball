@@ -2,6 +2,7 @@
   "name": "pokeball",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://gabrielfierro.github.io/React-Pokeball",
   "dependencies": {
     "cra-template": "1.1.1",
     "react": "^17.0.1",
