@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Pokeball/static/css/main.121e1b69.chunk.css",
+    "main.js": "/React-Pokeball/static/js/main.0f1dcd8d.chunk.js",
+    "main.js.map": "/React-Pokeball/static/js/main.0f1dcd8d.chunk.js.map",
+    "runtime-main.js": "/React-Pokeball/static/js/runtime-main.ff4d4095.js",
+    "runtime-main.js.map": "/React-Pokeball/static/js/runtime-main.ff4d4095.js.map",
+    "static/js/2.a337c519.chunk.js": "/React-Pokeball/static/js/2.a337c519.chunk.js",
+    "static/js/2.a337c519.chunk.js.map": "/React-Pokeball/static/js/2.a337c519.chunk.js.map",
+    "index.html": "/React-Pokeball/index.html",
+    "static/css/main.121e1b69.chunk.css.map": "/React-Pokeball/static/css/main.121e1b69.chunk.css.map",
+    "static/js/2.a337c519.chunk.js.LICENSE.txt": "/React-Pokeball/static/js/2.a337c519.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff4d4095.js",
+    "static/js/2.a337c519.chunk.js",
+    "static/css/main.121e1b69.chunk.css",
+    "static/js/main.0f1dcd8d.chunk.js"
+  ]
+}
